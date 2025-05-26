@@ -12,21 +12,14 @@ Live: [https://lawyer.sloq.me](https://lawyer.sloq.me)
 - Gives real-time search results instantly
 
 ## How It Works
-
 ```mermaid
 flowchart TD
-    A[User enters query] --> B[Gemini AI processes it]
+    A[User enters query] --> B[Gemini AI processes query]
     B --> C[Convert to vector]
-    C --> D[Search vector database (PostgreSQL)]
+    C --> D[Search vector DB (PostgreSQL)]
     D --> E[Match relevant lawyers]
-    E --> F[Show results to user]
+    E --> F[Display lawyer details to user]
 ```
-## How It Works
-
-1. The user types a query
-2. AI processes the query and converts it into a vector
-3. The system finds matching lawyers from a database
-4. The results are shown in a clean, readable format
 
 ## Tech Overview
 

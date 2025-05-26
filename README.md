@@ -15,10 +15,10 @@ Live: [https://lawyer.sloq.me](https://lawyer.sloq.me)
 ```mermaid
 flowchart TD
     A[User enters query] --> B[Gemini AI processes query]
-    B --> C[Convert to vector]
-    C --> D[Search vector DB (PostgreSQL)]
-    D --> E[Match relevant lawyers]
-    E --> F[Display lawyer details to user]
+    B --> C[Convert query to vector]
+    C --> D[Search vector database]
+    D --> E[Find relevant lawyers]
+    E --> F[Show lawyer details to user]
 ```
 
 ## Tech Overview

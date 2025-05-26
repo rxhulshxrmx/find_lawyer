@@ -1,6 +1,6 @@
-# LegalEase – Find a Lawyer
+Find a Lawyer  
 
-LegalEase is a simple web tool that helps people search for lawyers based on their legal needs. It uses AI to understand what the user is looking for and matches them with the most relevant lawyers.
+a simple web tool that helps people search for lawyers based on their legal needs. It uses AI to understand what the user is looking for and matches them with the most relevant lawyers.
 
 Live: [https://lawyer.sloq.me](https://lawyer.sloq.me)
 

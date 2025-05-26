@@ -13,7 +13,7 @@ Live: [https://lawyer.sloq.me](https://lawyer.sloq.me)
 
 ## How It Works
 ```mermaid
-flowchart TD
+flowchart LR
     A[User enters query] --> B[Gemini AI processes query]
     B --> C[Convert query to vector]
     C --> D[Search vector database]

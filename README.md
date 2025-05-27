@@ -25,6 +25,8 @@ flowchart LR
 
 - **Frontend**: Built with Next.js (React)
 - **AI**: Google Gemini + vector embeddings
-- **Database**: PostgreSQL with vector search
+- **Database**: PostgreSQL with vector search via Supabase
+  ![supabase-schema-vfdtzzhdsqdbubhilfcl](https://github.com/user-attachments/assets/3ea648a0-7d08-48c8-8697-d0004360e960)
+
 - **Styling**: Tailwind CSS
 - **Deployment**: Vercel
